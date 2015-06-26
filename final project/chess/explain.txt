@@ -1,0 +1,9 @@
+先開 server.py 再開兩個 client.py
+
+兩個 client.py 分別輸入 name
+
+其中一個 client.py 輸入 find 來找尋對手
+
+有先手權的會出現 "my turn" 字眼 , 輸入 next 進行下一步動作
+
+輪到對方回合時 , 輸入 next 進行下一步動作
